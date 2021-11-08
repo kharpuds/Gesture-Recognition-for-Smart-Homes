@@ -1,7 +1,8 @@
 # Gesture-Recognition-for-Smart-Homes
 
 ## About the Project:
-This project aims to develop a solution to recognise gestures for hand actions that will trigger certain processes involved in a smart home. I've used a CNN model
+This project aims to develop a solution to recognise gestures for hand actions that will trigger certain processes involved in a smart home. I've used a pre-trained CNN model to predict gestures
+
 
 ## Files included:
  - main.py
